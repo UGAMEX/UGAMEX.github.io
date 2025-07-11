@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 3855514949
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8abb5ed7f3191ca505c83853f392238e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 17199f9341440047cc39efee5cae0c69
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8abb5ed7f3191ca505c83853f392238e
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: cd58295515804d049905326f92c29e7e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a0b137c108371cb41b55cac126181b41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 089b214af33b9c34f8adc643cec6f0a3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa2548543ede25b4dbbbd7aef0336188, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: FileTree
+- AssemblyName: Assembly-CSharp
+  ClassName: QGameFramework.License.HMS
+- AssemblyName: Assembly-CSharp
+  ClassName: QGameFramework.License.License
+- AssemblyName: Assembly-CSharp
+  ClassName: QGameFramework.License.YMD
+- AssemblyName: Assembly-CSharp
+  ClassName: QGameFramework.SO.Img
+- AssemblyName: Assembly-CSharp
+  ClassName: QGameFramework.SO.Imgs
+Assets:
+- Assets/GameMain/SO/AlatsPathSO.asset
+- Assets/GameMain/SO/FileTreeSO.asset
+- Assets/GameMain/SO/GameConfigSO.asset
+- Assets/GameMain/SO/LicenseSO.asset
+Dependencies:
+- "E:/UnityProject/\u5C0F\u7A0B\u5E8F\u6A21\u677F - \u897F\u95E8\u5B50/AssetBundles/WebGL/asform_spriteatlas"
+- "E:/UnityProject/\u5C0F\u7A0B\u5E8F\u6A21\u677F - \u897F\u95E8\u5B50/AssetBundles/WebGL/axrdform_spriteatlas"
+- "E:/UnityProject/\u5C0F\u7A0B\u5E8F\u6A21\u677F - \u897F\u95E8\u5B50/AssetBundles/WebGL/bottomform_spriteatlas"
+- "E:/UnityProject/\u5C0F\u7A0B\u5E8F\u6A21\u677F - \u897F\u95E8\u5B50/AssetBundles/WebGL/fxkjform_spriteatlas"
+- "E:/UnityProject/\u5C0F\u7A0B\u5E8F\u6A21\u677F - \u897F\u95E8\u5B50/AssetBundles/WebGL/hzform_spriteatlas"
+- "E:/UnityProject/\u5C0F\u7A0B\u5E8F\u6A21\u677F - \u897F\u95E8\u5B50/AssetBundles/WebGL/mainform_spriteatlas"
+- "E:/UnityProject/\u5C0F\u7A0B\u5E8F\u6A21\u677F - \u897F\u95E8\u5B50/AssetBundles/WebGL/sncform_spriteatlas"
+- "E:/UnityProject/\u5C0F\u7A0B\u5E8F\u6A21\u677F - \u897F\u95E8\u5B50/AssetBundles/WebGL/teform_spriteatlas"
+- "E:/UnityProject/\u5C0F\u7A0B\u5E8F\u6A21\u677F - \u897F\u95E8\u5B50/AssetBundles/WebGL/xhyform_spriteatlas"
+- "E:/UnityProject/\u5C0F\u7A0B\u5E8F\u6A21\u677F - \u897F\u95E8\u5B50/AssetBundles/WebGL/xpanelform_spriteatlas"
+- "E:/UnityProject/\u5C0F\u7A0B\u5E8F\u6A21\u677F - \u897F\u95E8\u5B50/AssetBundles/WebGL/xxyyform_spriteatlas"

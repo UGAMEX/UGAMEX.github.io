@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 2933491940
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: so
+      Dependencies:
+        Dependency_0: asform_spriteatlas
+        Dependency_1: axrdform_spriteatlas
+        Dependency_2: bottomform_spriteatlas
+        Dependency_3: fxkjform_spriteatlas
+        Dependency_4: hzform_spriteatlas
+        Dependency_5: mainform_spriteatlas
+        Dependency_6: sncform_spriteatlas
+        Dependency_7: teform_spriteatlas
+        Dependency_8: xhyform_spriteatlas
+        Dependency_9: xpanelform_spriteatlas
+        Dependency_10: xxyyform_spriteatlas
+    Info_1:
+      Name: uiprefab
+      Dependencies: {}
+    Info_2:
+      Name: asform_spriteatlas
+      Dependencies: {}
+    Info_3:
+      Name: axrdform_spriteatlas
+      Dependencies: {}
+    Info_4:
+      Name: bottomform_spriteatlas
+      Dependencies: {}
+    Info_5:
+      Name: fxkjform_spriteatlas
+      Dependencies: {}
+    Info_6:
+      Name: hzform_spriteatlas
+      Dependencies: {}
+    Info_7:
+      Name: mainform_spriteatlas
+      Dependencies: {}
+    Info_8:
+      Name: sncform_spriteatlas
+      Dependencies: {}
+    Info_9:
+      Name: teform_spriteatlas
+      Dependencies: {}
+    Info_10:
+      Name: xhyform_spriteatlas
+      Dependencies: {}
+    Info_11:
+      Name: xpanelform_spriteatlas
+      Dependencies: {}
+    Info_12:
+      Name: xxyyform_spriteatlas
+      Dependencies: {}
